@@ -7,8 +7,7 @@ Everything about [Frappe](https://github.com/frappe/frappe) and [ERPNext](https:
 
 To get started you need [Docker](https://docs.docker.com/get-docker/), [docker-compose](https://docs.docker.com/compose/), and [git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git) setup on your machine. For Docker basics and best practices refer to Docker's [documentation](http://docs.docker.com).
 
-Once completed, chose one of the following two sections for next steps.
-This is ERPNEXT version: 14.70.11
+This is ERPNEXT version: 14.70.11 from frappe with no modifications.
 
 First clone the repo:
 
