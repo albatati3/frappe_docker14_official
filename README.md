@@ -8,16 +8,7 @@ Everything about [Frappe](https://github.com/frappe/frappe) and [ERPNext](https:
 To get started you need [Docker](https://docs.docker.com/get-docker/), [docker-compose](https://docs.docker.com/compose/), and [git](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git) setup on your machine. For Docker basics and best practices refer to Docker's [documentation](http://docs.docker.com).
 
 Once completed, chose one of the following two sections for next steps.
-
-### Try in Play With Docker
-
-To play in an already set up sandbox, in your browser, click the button below:
-
-<a href="https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/frappe/frappe_docker/main/pwd.yml">
-  <img src="https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png" alt="Try in PWD"/>
-</a>
-
-### Try on your Dev environment
+This is ERPNEXT version: 14.70.11
 
 First clone the repo:
 
