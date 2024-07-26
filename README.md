@@ -12,8 +12,8 @@ This is ERPNEXT version: 14.70.11 from frappe with no modifications.
 First clone the repo:
 
 ```sh
-git clone https://github.com/frappe/frappe_docker
-cd frappe_docker
+git clone https://github.com/albatati3/frappe_docker14_official.git
+cd frappe_docker14_official
 ```
 
 Then run: `docker compose -f pwd.yml up -d`
